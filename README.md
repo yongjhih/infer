@@ -3,6 +3,17 @@
 [Infer](http://fbinfer.com/) is a static analysis tool for Java,
 Objective-C and C, written in [OCaml](https://ocaml.org/).
 
+## Usage
+
+```sh
+$ curl -L https://github.com/yongjhih/infer/raw/master/docker/infer > ~/bin/infer && chmod a+x ~/bin/infer
+$ infer -- javac Hello.java
+```
+
+```sh
+$ curl -L https://github.com/yongjhih/infer/raw/master/docker/infer > ~/bin/infer && chmod a+x ~/bin/infer
+$ infer -- ./gradlew build
+```
 
 ## Installation
 
