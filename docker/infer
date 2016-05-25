@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Run redex in a container
+# Run infer in a container
 #
 # This script will attempt to mirror the host paths by using volumes for the
 # following paths:
