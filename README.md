@@ -6,6 +6,8 @@
 [![Docker Layers](https://img.shields.io/imagelayers/layers/yongjhih/infer/latest.svg)](https://imagelayers.io/?images=yongjhih/infer:latest)
 [![Travis CI](https://img.shields.io/travis/yongjhih/infer.svg)](https://travis-ci.org/yongjhih/infer)
 
+[![](art/infer.png)](http://fbinfer.com/)
+
 [Infer](http://fbinfer.com/) is a static analysis tool for Java,
 Objective-C and C, written in [OCaml](https://ocaml.org/).
 
